@@ -1,7 +1,9 @@
-# Vue 3 + Vite
+# 鸡了个鸡
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Recommended IDE Setup
+### 游戏特色
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+1. 选择难度
+2. 自定义难度
+3. 自定义图案
+4. 使用技能
