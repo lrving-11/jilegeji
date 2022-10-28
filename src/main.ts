@@ -12,8 +12,8 @@ import 'ant-design-vue/dist/antd.css';
 
 // 路由
 const router=VueRouter.createRouter({
-  history:VueRouter.createWebHistory(),
-  routes:routes
+  history:VueRouter.createWebHashHistory(),
+  routes,
 })
 // 状态管理
 const pinia=createPinia();
